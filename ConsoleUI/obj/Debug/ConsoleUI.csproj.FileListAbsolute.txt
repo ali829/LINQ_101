@@ -1,0 +1,10 @@
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\bin\Debug\LinqLibrary.dll
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\bin\Debug\LinqLibrary.pdb
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,0 +1,6 @@
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\bin\Debug\LinqLibrary.dll
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\bin\Debug\LinqLibrary.pdb
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\obj\Debug\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\obj\Debug\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\obj\Debug\LinqLibrary.dll
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\LinqLibrary\obj\Debug\LinqLibrary.pdb

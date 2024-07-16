@@ -1,0 +1,13 @@
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\bin\Debug\FormUI.exe
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\bin\Debug\FormUI.pdb
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\bin\Debug\LinqLibrary.dll
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\bin\Debug\LinqLibrary.pdb
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.csproj.AssemblyReference.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.Dashboaard.resources
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.exe
+C:\Users\A L I\Downloads\Linq101Demo\Linq101Demo_Start\FormUI\obj\Debug\FormUI.pdb
